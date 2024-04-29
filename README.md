@@ -1,4 +1,4 @@
-# Django-Assesment
+# Django-Assesment Auth
 
 Create a Django API with django rest framework
 
